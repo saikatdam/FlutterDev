@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "59420946637",
+    "project_id": "flutterops-3bb0f",
+    "storage_bucket": "flutterops-3bb0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59420946637:android:ee8a7822acb4930ac8b984",
+        "android_client_info": {
+          "package_name": "com.example.thunderwave"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzMgOZFOR2meDBFWCHMacZg49n5wq0Guk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
